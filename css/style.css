@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: "Exo 2", sans-serif;
+}
+header{
+    padding: 1.5em;
+}
