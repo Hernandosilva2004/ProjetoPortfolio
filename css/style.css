@@ -13,3 +13,19 @@ body{
 header{
     padding: 1.5em;
 }
+.intro, .projects, .contact{
+    padding: 1.5em;
+}
+
+.project{
+    border: 1px solid #090909;
+    margin: 1em;
+    padding: 1em;
+}
+
+footer{
+    padding: 1em 0;
+    position: absolute;
+    bottom: 0;
+    position: inherit;
+}
